@@ -1,2 +1,3 @@
-# TEST
-Testing for Jenkins --> Docker --> ec2 deployment
+# maven-project
+
+Simple Maven Project
